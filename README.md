@@ -12,10 +12,14 @@ My top 6 best repos
  
 ![unnamed](https://user-images.githubusercontent.com/124378651/234304448-d1f55e87-b89c-4c91-8b52-b33dc18eefec.jpg)
 
+Langauges I code in 
+ <br /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ <br /> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ <br /> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ <br /> I understand these laungauges at a basic level although I am quickly learning more. 
 <!--
 **Airnov/Airnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
