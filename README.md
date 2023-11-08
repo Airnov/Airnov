@@ -10,7 +10,6 @@ My top 6 best repos
 
  <br /> This is my all time best repo https://github.com/Airnov/pizzarepo
  
-![unnamed](https://user-images.githubusercontent.com/124378651/234304448-d1f55e87-b89c-4c91-8b52-b33dc18eefec.jpg)
 
 Langauges I code in 
  <br /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
